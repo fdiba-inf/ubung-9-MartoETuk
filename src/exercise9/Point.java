@@ -20,9 +20,7 @@ public class Point {
     }
 
     public void initialize() {
-        System.out.print("Enter x: ");
         x = Utils.INPUT.nextDouble();
-        System.out.print("Enter y: ");
         y = Utils.INPUT.nextDouble();
     }
 
